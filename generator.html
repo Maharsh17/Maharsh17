@@ -87,8 +87,8 @@ const DEFAULT_CONFIG = {
   caption2: 'sophomore · building',
   sectionTitles: {
     sysinfo: null,
-    languages: 'blank',
-    currently: 'blank',
+    languages: null,
+    currently: null,
     education: 'Education',
     contact: 'Contact',
   },
@@ -118,7 +118,7 @@ const DEFAULT_CONFIG = {
     ],
     contact: [
       { key: 'Email', value: 'majani2@illinois.edu' },
-      { key: 'LinkedIn', value: 'janimaharsh' },
+      { key: 'LinkedIn', value: 'linkedin.com/in/janimaharsh' },
       { key: 'Website', value: 'www.janimaharsh.com' },
       { key: 'Location', value: 'Chambana, IL' },
     ],
@@ -174,12 +174,12 @@ function generate(themeName) {
   for (const k of order) {
     const title = config.sectionTitles[k];
     const rows = config.sections[k];
-    if (title && title !== 'blank') {
+    if (title) {
       y += 20;
       lines.push(`<tspan x="395" y="${y}">${buildDivider(title, false)}</tspan>`);
       y += dy;
     } else if (!isFirst) {
-      lines.push(`<tspan x="395" y="${y}" class="c">. </tspan>`);
+      // gap between sections (no visible dot, just space)
       y += dy;
     }
     isFirst = false;
