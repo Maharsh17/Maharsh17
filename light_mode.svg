@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="620px" font-size="15px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="540px" font-size="15px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,46 +15,45 @@ size-adjust: 109%;
 .cc {fill: #c2cfde;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="620px" fill="#f6f8fa" rx="15"/>
+<rect width="985px" height="540px" fill="#f6f8fa" rx="15"/>
 
 <text x="15" y="30" fill="#e8702a">
-<tspan x="15" y="30">   ████████████████████████   </tspan>
-<tspan x="15" y="50">   ████████████████████████   </tspan>
-<tspan x="15" y="70">   ██                    ██   </tspan>
-<tspan x="15" y="90">       ████████████████       </tspan>
-<tspan x="15" y="110">       ████████████████       </tspan>
-<tspan x="15" y="130">           ████████           </tspan>
-<tspan x="15" y="150">           ████████           </tspan>
-<tspan x="15" y="170">           ████████           </tspan>
-<tspan x="15" y="190">           ████████           </tspan>
-<tspan x="15" y="210">           ████████           </tspan>
-<tspan x="15" y="230">           ████████           </tspan>
-<tspan x="15" y="250">           ████████           </tspan>
-<tspan x="15" y="270">           ████████           </tspan>
-<tspan x="15" y="290">           ████████           </tspan>
-<tspan x="15" y="310">           ████████           </tspan>
-<tspan x="15" y="330">           ████████           </tspan>
-<tspan x="15" y="350">           ████████           </tspan>
-<tspan x="15" y="370">           ████████           </tspan>
-<tspan x="15" y="390">       ████████████████       </tspan>
-<tspan x="15" y="410">       ████████████████       </tspan>
-<tspan x="15" y="430">   ██                    ██   </tspan>
-<tspan x="15" y="450">   ████████████████████████   </tspan>
-<tspan x="15" y="470">   ████████████████████████   </tspan>
+<tspan x="15" y="30">████████████████████████████████</tspan>
+<tspan x="15" y="50">████████████████████████████████</tspan>
+<tspan x="15" y="70">████████████████████████████████</tspan>
+<tspan x="15" y="90">    ████████████████████████    </tspan>
+<tspan x="15" y="110">      ██████████████████        </tspan>
+<tspan x="15" y="130">         ██████████████         </tspan>
+<tspan x="15" y="150">            ████████            </tspan>
+<tspan x="15" y="170">            ████████            </tspan>
+<tspan x="15" y="190">            ████████            </tspan>
+<tspan x="15" y="210">            ████████            </tspan>
+<tspan x="15" y="230">            ████████            </tspan>
+<tspan x="15" y="250">            ████████            </tspan>
+<tspan x="15" y="270">            ████████            </tspan>
+<tspan x="15" y="290">            ████████            </tspan>
+<tspan x="15" y="310">            ████████            </tspan>
+<tspan x="15" y="330">            ████████            </tspan>
+<tspan x="15" y="350">         ██████████████         </tspan>
+<tspan x="15" y="370">       ██████████████████       </tspan>
+<tspan x="15" y="390">    ████████████████████████    </tspan>
+<tspan x="15" y="410">████████████████████████████████</tspan>
+<tspan x="15" y="430">████████████████████████████████</tspan>
+<tspan x="15" y="450">████████████████████████████████</tspan>
 </text>
 
-<text x="15" y="510" fill="#24292f">
-<tspan x="15" y="510">      Maharsh Jani · UIUC      </tspan>
+<text x="15" y="490" fill="#24292f">
+<tspan x="15" y="490">      Maharsh Jani · UIUC      </tspan>
 </text>
-<text x="15" y="530" fill="#59636e">
-<tspan x="15" y="530">      sophomore · shipping     </tspan>
+<text x="15" y="510" fill="#59636e">
+<tspan x="15" y="510">      sophomore · building     </tspan>
 </text>
 
 <text x="395" y="30" fill="#24292f">
 <tspan x="395" y="30">maharsh@illinois</tspan> -—————————————————————————————————————-—-
 <tspan x="395" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">macOS, Linux</tspan>
 <tspan x="395" y="70" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">NSF AI INVITE Institute · IWCS DevAda</tspan>
-<tspan x="395" y="90" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Software Engineer + Learning Scientist</tspan>
+<tspan x="395" y="90" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Software Engineer &amp; Research Assistant</tspan>
 <tspan x="395" y="110" class="cc">. </tspan><tspan class="key">Editor</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">VSCode, Cursor, Neovim, JetBrains</tspan>
 <tspan x="395" y="130" class="cc">. </tspan>
 <tspan x="395" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Python, JS, Java, C/C++, SQL, Bash</tspan>
@@ -63,20 +62,17 @@ text, tspan {white-space: pre;}
 <tspan x="395" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Production</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Docker, Kubernetes, AWS, Actions</tspan>
 <tspan x="395" y="230" class="cc">. </tspan>
 <tspan x="395" y="250" class="cc">. </tspan><tspan class="key">Currently</tspan>.<tspan class="key">Building</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">real-time analytics for AI tutors</tspan>
-<tspan x="395" y="270" class="cc">. </tspan><tspan class="key">Currently</tspan>.<tspan class="key">Leading</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">FireWatch · 52-week wildfire forecast</tspan>
+<tspan x="395" y="270" class="cc">. </tspan><tspan class="key">Currently</tspan>.<tspan class="key">Leading</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">52-week wildfire forecasting</tspan>
 <tspan x="395" y="290" class="cc">. </tspan><tspan class="key">Currently</tspan>.<tspan class="key">Researching</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">glass-box EBM on coding telemetry</tspan>
 <tspan x="395" y="330">- Education</tspan> -————————————————————————————————————————————-—-
 <tspan x="395" y="350" class="cc">. </tspan><tspan class="key">School</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">University of Illinois Urbana-Champaign</tspan>
-<tspan x="395" y="370" class="cc">. </tspan><tspan class="key">Major</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">CS + Learning Sciences (May 2028)</tspan>
-<tspan x="395" y="390" class="cc">. </tspan><tspan class="key">GPA</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">4.0 / 4.0</tspan>
-<tspan x="395" y="410" class="cc">. </tspan><tspan class="key">Honors</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Chancellor's Scholar (Top 1%), James Scholar</tspan>
+<tspan x="395" y="370" class="cc">. </tspan><tspan class="key">Major</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Computer Science &amp; Learning Sciences</tspan>
+<tspan x="395" y="390" class="cc">. </tspan><tspan class="key">Graduation</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">May 2028</tspan>
+<tspan x="395" y="410" class="cc">. </tspan><tspan class="key">Honors</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Chancellor's Scholar, James Scholar</tspan>
 <tspan x="395" y="450">- Contact</tspan> -——————————————————————————————————————————————-—-
 <tspan x="395" y="470" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">majani2@illinois.edu</tspan>
 <tspan x="395" y="490" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">janimaharsh</tspan>
 <tspan x="395" y="510" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">maharsh17.github.io</tspan>
 <tspan x="395" y="530" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Urbana, IL · (UTC-5)</tspan>
-<tspan x="395" y="570">- By the Numbers</tspan> -———————————————————————————————————————————-—-
-<tspan x="395" y="590" class="cc">. </tspan><tspan class="key">Events processed @ NSF</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">200,000+</tspan> ( <tspan class="addColor">&lt;1s latency</tspan> )
-<tspan x="395" y="610" class="cc">. </tspan><tspan class="key">DB storage</tspan>:<tspan class="cc"> ...... </tspan><tspan class="delColor">-84%</tspan> | <tspan class="key">EBM AUC</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">0.843 ± 0.060</tspan>
 </text>
 </svg>
