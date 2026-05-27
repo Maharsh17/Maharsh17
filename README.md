@@ -8,6 +8,6 @@
 <p align="center">
   <a href="mailto:majani2@illinois.edu">email</a>&nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/janimaharsh/">linkedin</a>&nbsp;·&nbsp;
-  <a href="https://maharsh17.github.io">website</a>&nbsp;·&nbsp;
+  <a href="https://www.janimaharsh.com">website</a>&nbsp;·&nbsp;
   <a href="https://github.com/Maharsh17">github</a>
 </p>
