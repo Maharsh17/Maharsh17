@@ -34,8 +34,8 @@ text, tspan {white-space: pre;}
 <tspan x="395" y="110"><tspan class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Software Engineer &amp; Research Assistant</tspan></tspan>
 <tspan x="395" y="130"><tspan class="cc">. </tspan><tspan class="key">Editor</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">VSCode, Cursor, Neovim, JetBrains</tspan></tspan>
 <tspan x="395" y="150" class="cc">. </tspan>
-<tspan x="395" y="170"><tspan class="cc">. </tspan><tspan class="key">Programming</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Python, JS, Java, C/C++, SQL, Bash</tspan></tspan>
-<tspan x="395" y="190"><tspan class="cc">. </tspan><tspan class="key">Web/RT</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">React, Node, FastAPI, GraphQL, Yjs</tspan></tspan>
+<tspan x="395" y="170"><tspan class="cc">. </tspan><tspan class="key">Programming</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Python, JS, Java, C/C++, SQL, Bash</tspan></tspan>
+<tspan x="395" y="190"><tspan class="cc">. </tspan><tspan class="key">Web/RT</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">React, Node, FastAPI, GraphQL, Yjs</tspan></tspan>
 <tspan x="395" y="210"><tspan class="cc">. </tspan><tspan class="key">Data</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Postgres, MongoDB, Neo4j, Redis</tspan></tspan>
 <tspan x="395" y="230"><tspan class="cc">. </tspan><tspan class="key">Production</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Docker, Kubernetes, AWS, Actions</tspan></tspan>
 <tspan x="395" y="250" class="cc">. </tspan>
