@@ -16,42 +16,41 @@ text, tspan {white-space: pre;}
 <rect width="985px" height="600px" fill="#161b22" rx="15"/>
 
 <!-- UIUC Block I (vector) -->
-<g transform="translate(85, 105)">
+<g transform="translate(70, 105)">
   <path d="M 0 0 L 240 0 L 240 78 L 158 78 L 158 252 L 240 252 L 240 330 L 0 330 L 0 252 L 82 252 L 82 78 L 0 78 Z"
         fill="#e8702a" stroke="#13294b" stroke-width="6" stroke-linejoin="miter"/>
-  <!-- subtle inner highlight stripe -->
   <rect x="14" y="14" width="212" height="6" fill="#13294b" opacity="0.35"/>
   <rect x="14" y="310" width="212" height="6" fill="#13294b" opacity="0.35"/>
 </g>
 
-<text x="205" y="475" fill="#c9d1d9" text-anchor="middle" font-size="16px">Maharsh Jani · UIUC</text>
-<text x="205" y="500" fill="#616e7f" text-anchor="middle" font-size="14px">sophomore · building</text>
+<text x="190" y="475" fill="#c9d1d9" text-anchor="middle" font-size="16px">Maharsh Jani · UIUC</text>
+<text x="190" y="500" fill="#616e7f" text-anchor="middle" font-size="14px">sophomore · building</text>
 
-<!-- Right column: neofetch-style key/value -->
-<text x="400" y="30" fill="#c9d1d9">
-<tspan x="400" y="50">maharsh@illinois</tspan> -——————————————————————————————————————-—-
-<tspan x="400" y="70" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">macOS, Linux</tspan>
-<tspan x="400" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">NSF AI INVITE Institute · IWCS DevAda</tspan>
-<tspan x="400" y="110" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Software Engineer &amp; Research Assistant</tspan>
-<tspan x="400" y="130" class="cc">. </tspan><tspan class="key">Editor</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">VSCode, Cursor, Neovim, JetBrains</tspan>
-<tspan x="400" y="150" class="cc">. </tspan>
-<tspan x="400" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Python, JS, Java, C/C++, SQL, Bash</tspan>
-<tspan x="400" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Web/RT</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">React, Node, FastAPI, GraphQL, Yjs</tspan>
-<tspan x="400" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Data</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Postgres, MongoDB, Neo4j, Redis</tspan>
-<tspan x="400" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Production</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Docker, Kubernetes, AWS, Actions</tspan>
-<tspan x="400" y="250" class="cc">. </tspan>
-<tspan x="400" y="270" class="cc">. </tspan><tspan class="key">Currently</tspan>.<tspan class="key">Building</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">real-time analytics for AI tutors</tspan>
-<tspan x="400" y="290" class="cc">. </tspan><tspan class="key">Currently</tspan>.<tspan class="key">Leading</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">52-week wildfire forecasting</tspan>
-<tspan x="400" y="310" class="cc">. </tspan><tspan class="key">Currently</tspan>.<tspan class="key">Researching</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">glass-box EBM on coding telemetry</tspan>
-<tspan x="400" y="350">- Education</tspan> -—————————————————————————————————————————-—-
-<tspan x="400" y="370" class="cc">. </tspan><tspan class="key">School</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">University of Illinois Urbana-Champaign</tspan>
-<tspan x="400" y="390" class="cc">. </tspan><tspan class="key">Major</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Computer Science &amp; Learning Sciences</tspan>
-<tspan x="400" y="410" class="cc">. </tspan><tspan class="key">Graduation</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">May 2028</tspan>
-<tspan x="400" y="430" class="cc">. </tspan><tspan class="key">Honors</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Chancellor's Scholar, James Scholar</tspan>
-<tspan x="400" y="470">- Contact</tspan> -———————————————————————————————————————————-—-
-<tspan x="400" y="490" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">majani2@illinois.edu</tspan>
-<tspan x="400" y="510" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">janimaharsh</tspan>
-<tspan x="400" y="530" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">maharsh17.github.io</tspan>
-<tspan x="400" y="550" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Urbana, IL · (UTC-5)</tspan>
+<!-- Right column: right-aligned neofetch-style, 66 chars per line -->
+<text x="395" y="30" fill="#c9d1d9">
+<tspan x="395" y="50">maharsh@illinois -—————————————————————————————————————————-—-</tspan>
+<tspan x="395" y="70"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................................... </tspan><tspan class="value">macOS, Linux</tspan></tspan>
+<tspan x="395" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">NSF AI INVITE Institute · IWCS DevAda</tspan></tspan>
+<tspan x="395" y="110"><tspan class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Software Engineer &amp; Research Assistant</tspan></tspan>
+<tspan x="395" y="130"><tspan class="cc">. </tspan><tspan class="key">Editor</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">VSCode, Cursor, Neovim, JetBrains</tspan></tspan>
+<tspan x="395" y="150" class="cc">. </tspan>
+<tspan x="395" y="170"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Python, JS, Java, C/C++, SQL, Bash</tspan></tspan>
+<tspan x="395" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Web/RT</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">React, Node, FastAPI, GraphQL, Yjs</tspan></tspan>
+<tspan x="395" y="210"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Data</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Postgres, MongoDB, Neo4j, Redis</tspan></tspan>
+<tspan x="395" y="230"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Production</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Docker, Kubernetes, AWS, Actions</tspan></tspan>
+<tspan x="395" y="250" class="cc">. </tspan>
+<tspan x="395" y="270"><tspan class="cc">. </tspan><tspan class="key">Currently</tspan>.<tspan class="key">Building</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">real-time analytics for AI tutors</tspan></tspan>
+<tspan x="395" y="290"><tspan class="cc">. </tspan><tspan class="key">Currently</tspan>.<tspan class="key">Leading</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">52-week wildfire forecasting</tspan></tspan>
+<tspan x="395" y="310"><tspan class="cc">. </tspan><tspan class="key">Currently</tspan>.<tspan class="key">Researching</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">glass-box EBM on coding telemetry</tspan></tspan>
+<tspan x="395" y="350">- Education -——————————————————————————————————————————————-—-</tspan>
+<tspan x="395" y="370"><tspan class="cc">. </tspan><tspan class="key">School</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">University of Illinois Urbana-Champaign</tspan></tspan>
+<tspan x="395" y="390"><tspan class="cc">. </tspan><tspan class="key">Major</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Computer Science &amp; Learning Sciences</tspan></tspan>
+<tspan x="395" y="410"><tspan class="cc">. </tspan><tspan class="key">Graduation</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">May 2028</tspan></tspan>
+<tspan x="395" y="430"><tspan class="cc">. </tspan><tspan class="key">Honors</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Chancellor's Scholar, James Scholar</tspan></tspan>
+<tspan x="395" y="470">- Contact -————————————————————————————————————————————————-—-</tspan>
+<tspan x="395" y="490"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">majani2@illinois.edu</tspan></tspan>
+<tspan x="395" y="510"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">janimaharsh</tspan></tspan>
+<tspan x="395" y="530"><tspan class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">maharsh17.github.io</tspan></tspan>
+<tspan x="395" y="550"><tspan class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Urbana, IL · (UTC-5)</tspan></tspan>
 </text>
 </svg>
