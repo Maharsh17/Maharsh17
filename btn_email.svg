@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="40" viewBox="0 0 150 40">
+  <style>
+    .bg { fill: #ffffff; }
+    .bd { stroke: #d0d7de; fill: none; stroke-width: 1; }
+    .label { fill: #1f2328; font-family: "SF Mono", Consolas, "Liberation Mono", ui-monospace, monospace; font-size: 13px; font-weight: 500; letter-spacing: 0.02em; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #161b22; }
+      .bd { stroke: #30363d; }
+      .label { fill: #c9d1d9; }
+    }
+  </style>
+  <rect class="bg" x="0" y="0" width="150" height="40" rx="8"/>
+  <rect class="bd" x="0.5" y="0.5" width="149" height="39" rx="7.5"/>
+  <g transform="translate(11, 11) scale(0.75)" fill="#e8702a">
+    <path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/>
+  </g>
+  <text class="label" x="40" y="26">email</text>
+</svg>
