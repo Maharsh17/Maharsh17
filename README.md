@@ -1,7 +1,7 @@
-<a href="https://github.com/Maharsh17/Maharsh17">
+<a href="https://www.janimaharsh.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maharsh17/Maharsh17/main/dark_mode.svg">
-    <img alt="Maharsh Jani's GitHub Profile README" src="https://raw.githubusercontent.com/Maharsh17/Maharsh17/main/light_mode.svg">
+    <img alt="Maharsh Jani - CS &amp; Learning Sciences at UIUC, Chambana, IL" src="https://raw.githubusercontent.com/Maharsh17/Maharsh17/main/light_mode.svg">
   </picture>
 </a>
 

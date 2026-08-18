@@ -1,0 +1,10 @@
+# local preview scaffolding
+preview/
+
+# abandoned radio-strip experiment, kept locally
+build.py
+card.svg
+
+# only the texture the card actually embeds is tracked
+.art/*
+!.art/panel.jpg

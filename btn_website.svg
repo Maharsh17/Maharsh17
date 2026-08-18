@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="150" height="40" viewBox="0 0 150 40">
   <style>
-    .bg { fill: #ffffff; }
-    .bd { stroke: #d0d7de; fill: none; stroke-width: 1; }
-    .label { fill: #1f2328; font-family: "SF Mono", Consolas, "Liberation Mono", ui-monospace, monospace; font-size: 13px; font-weight: 500; letter-spacing: 0.02em; }
-    .ic { stroke: #e8702a; fill: none; stroke-width: 1.8; stroke-linecap: round; }
+    .bg { fill: #EFE3CC; }
+    .bd { stroke: #C9B994; fill: none; stroke-width: 1; }
+    .label { fill: #241C10; font-family: "SF Mono", Consolas, "Liberation Mono", ui-monospace, monospace; font-size: 13px; font-weight: 500; letter-spacing: 0.02em; }
+    .ic { stroke: #8A5A08; fill: none; stroke-width: 1.8; stroke-linecap: round; }
     @media (prefers-color-scheme: dark) {
-      .bg { fill: #161b22; }
-      .bd { stroke: #30363d; }
-      .label { fill: #c9d1d9; }
+      .bg { fill: #07090D; }
+      .bd { stroke: #2A3441; }
+      .ic { stroke: #E9A81C; }
+      .label { fill: #D9DCD9; }
     }
   </style>
   <rect class="bg" x="0" y="0" width="150" height="40" rx="8"/>
